@@ -17,6 +17,7 @@ public class AuthFilter implements Filter {
     }
 
     @Override
+    //handling https req/resp and ensuring cache control
     public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
             throws IOException, ServletException {
         HttpServletRequest req = (HttpServletRequest) request;
