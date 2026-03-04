@@ -1,0 +1,4 @@
+<!ELEMENT users (user*)>
+<!ELEMENT user EMPTY>
+<!ATTLIST user id CDATA #REQUIRED
+               password CDATA #REQUIRED>

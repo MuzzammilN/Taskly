@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+    <task id="1">
+        <name>Complete Assignment Report</name>
+        <deadline>2026-03-10</deadline>
+        <assignee>alice</assignee>
+        <progress>75%</progress>
+    </task>
+    <task id="2">
+        <name>Test Security Features</name>
+        <deadline>2026-03-08</deadline>
+        <assignee>alice</assignee>
+        <progress>90%</progress>
+    </task>
+    <task id="3">
+        <name>Design Database Schema</name>
+        <deadline>2026-03-15</deadline>
+        <assignee>bob</assignee>
+        <progress>50%</progress>
+    </task>
+    <task id="4">
+        <name>Implement User Authentication</name>
+        <deadline>2026-03-12</deadline>
+        <assignee>bob</assignee>
+        <progress>100%</progress>
+    </task>
+</tasks>

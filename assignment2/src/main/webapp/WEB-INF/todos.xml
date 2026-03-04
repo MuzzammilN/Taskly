@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<todos>
+    <todo id="1">
+        <title>Learn Web Security</title>
+        <description>Understand servlet filters and session management</description>
+        <priority>High</priority>
+        <status>In Progress</status>
+    </todo>
+    <todo id="2">
+        <title>Implement XML/XSLT Transformation</title>
+        <description>Transform XML content using XSLT stylesheets</description>
+        <priority>High</priority>
+        <status>Completed</status>
+    </todo>
+    <todo id="3">
+        <title>Protect Image Files</title>
+        <description>Serve protected images through servlet, prevent direct access</description>
+        <priority>Medium</priority>
+        <status>In Progress</status>
+    </todo>
+    <todo id="4">
+        <title>Add Security Headers</title>
+        <description>Set cache-control and security headers to prevent attacks</description>
+        <priority>Medium</priority>
+        <status>Completed</status>
+    </todo>
+</todos>

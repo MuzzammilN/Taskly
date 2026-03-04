@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+    <article id="1">
+        <title>Welcome to the Secure System</title>
+        <body>This content is protected and loaded dynamically from XML. Only authenticated users can view this information.</body>
+    </article>
+</articles>

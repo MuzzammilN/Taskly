@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE users SYSTEM "users.dtd">
+<users>
+    <user id="muzzammil" password="muzzammil123"/>
+    <user id="yafet" password="yafet123"/>
+</users>

@@ -1,0 +1,5 @@
+<!ELEMENT articles (article*)>
+<!ELEMENT article (title, body)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ATTLIST article id ID #REQUIRED>
